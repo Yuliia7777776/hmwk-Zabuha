@@ -1,0 +1,326 @@
+.main {
+    height: 2375px;
+    width: 1440px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .header {
+    height: 80px;
+    width: 1440px;
+  }
+  
+  .container {
+    height: 54px;
+    width: 1200px;
+    left: 120px;
+    top: 13px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+  }
+  
+  .company-logo-black {
+    height: 54px;
+    width: 237.9px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    float: right;
+  }
+  
+  .logo {
+    height: 54px;
+    width: 237.9px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+  }
+  
+  .nav {
+    height: 20px;
+    width: 260.99px;
+  }
+  
+  li.Documentation {
+    font-family: "Staatliches", "Sans-serif";
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.03em;
+    text-align: left;
+  }
+  
+  li {
+    list-style-type: none;
+  }
+  
+  li.oblique-line {
+    font-family: "Staatliches", "Sans-serif";
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.03em;
+    text-align: left;
+  }
+  
+  li.text_ {
+    font-family: "Staatliches", "Sans-serif";
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.03em;
+    text-align: left;
+  }
+  
+  ul.hr {
+    margin: 0;
+    padding: 4px;
+  }
+  
+  ul.hr li {
+    display: inline;
+    margin-right: 5px;
+    padding: 3px;
+  }
+  
+  .main-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  }
+  
+  .chapter1 {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+  }
+  
+  .title {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .bloc {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+  }
+  
+  .chapter2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .title-2 {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .chapter3 {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+  }
+  
+  .title-3 {
+    display: flex;
+    gap: 15px;
+  }
+  
+  
+  
+  .chapter-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+  }
+  
+  .title-4 {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .first {
+    font-family: "Tourney", "Sans-serif";
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 18px;
+    text-align: center;
+  }
+  
+  .main-text {
+    height: 2225px;
+    width: 1200px;
+    border-radius: 0px;
+    padding: 0px 0px 90px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 70px;
+  }
+  
+  .bloc {
+    height: 133px;
+    width: 1200px;
+    display: flex;
+  }
+  
+  p.content {
+    font-family: "PT", "Sans";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  .text-component {
+      font-family: "PT", "Sans";
+      font-size: 28px;
+      font-style: italic;
+      font-weight: 400;
+      line-height: 48px;
+      letter-spacing: 0em;
+      text-align: left;
+  }
+  
+  .text-component-0 {
+    font-family: "PT", "Sans";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left; 
+  }
+  
+  .h1-3 {
+    height: 48px;
+    width: 400px;
+    gap: 30px;
+  }
+  
+  .h3-3 {
+    height: 20px;
+    width: 100px;
+  }
+  
+  .text-3 {
+    height: 132px;
+    width: 1200px;
+  }
+  
+  .text-component-1 {
+    font-family: "Hind", "Sans-serif";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  p.chapter-3-2 {
+    font-family: "PT", "Sans";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  b.component {
+    font-family:  "PT", "Sans";
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  p.chapter-3-3 {
+    font-family: "PT", "Sans";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  b.component1 {
+    font-family:  "PT", "Sans";
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  p.chapter-3-4 {
+    font-family: "PT", "Sans";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  p.chapter-second {
+    font-family: "PT", "Sans";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  p.chapter-3-5 {
+    font-family: "PT", "Sans";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  b.component2 {
+    font-family:  "PT", "Sans";
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  p.chapter-3-6 {
+    font-family: "PT", "Sans";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  b.component3 {
+    font-family:  "PT", "Sans";
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  .text-8 {
+    font-family: "PT", "Sans";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  .text-9 {
+    font-family: "PT", "Sans";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
